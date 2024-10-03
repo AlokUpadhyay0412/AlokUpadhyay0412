@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @AlokUpadhyay<br>- I am a BTech CSE student at Galgotias University with a passion for software development. I am proficient in Java, Python ,DSA and SQL, and I have experience in web development. I am also interested in artificial intelligence and machine learning.<br> In my spare time, I enjoy participating in hackathons and coding competitions. I am also a member of the Galgotias University Computer Science Club  <br>- 🌱 I’m currently learning artificial intelligence and machine learning <br>- 💞️ I’m looking to collaborate on project of ai and ml<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alok_upadhyay004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-upadhyay-a94023286/)[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alokupadhyay942@gamil.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alok_upadhyay004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-upadhyay-a94023286/)
 
 
 # 💻 Tech Stack:
